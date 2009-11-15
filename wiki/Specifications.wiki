@@ -1,0 +1,9 @@
+#summary Project specifications
+
+= Introduction =
+
+Darwin is designed to simulate various creatures with a limited set of instructions.
+
+= Details =
+
+While the instructions for most of the creatures was stated for this project (food, rover, trap, etc.), the idea behind our own creature was to play defensively by hugging the walls and infecting those it finds.
